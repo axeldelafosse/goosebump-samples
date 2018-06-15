@@ -9,7 +9,7 @@ Here is some notable facts:
 ## Webapp (React)
 - Streaming Server Side Rendering
 - Route splitting
-= Optimized Critical Rendering Path (Time To Render). We used our webapp directly within webviews in Messenger. Thanks to theses optimizations it was really fast.
+- = Optimized Critical Rendering Path (Time To Render). We used our webapp directly within webviews in Messenger. Thanks to theses optimizations it was really fast.
 
 ## Mobile app (React Native)
 - We started to switch to a GraphQL API so we used Apollo (+ Redux)
